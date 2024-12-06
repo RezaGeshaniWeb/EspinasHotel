@@ -1,8 +1,8 @@
 # EspinasHotel
 
-![Alt text]
+![Alt text](https://github.com/user-attachments/assets/241ee789-0211-4f36-9eaf-13ca641bdac1)
 
-![Alt text]
+![Alt text](https://github.com/user-attachments/assets/e7a8b0d6-3f61-470f-bba2-10b10e3d4911)
 
 - [Online Demo](https://rezageshaniweb.github.io/EspinasHotel/)
 
