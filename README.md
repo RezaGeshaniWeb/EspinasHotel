@@ -6,7 +6,7 @@
 
 - Created - 2024-12-07
 
-- Technologies Used - Html , Css , TailwindCSS
+- Technologies Used - Html , TailwindCSS
 
 - Role - Frontend
 
